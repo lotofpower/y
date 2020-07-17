@@ -1,7 +1,7 @@
 package servies;
 
 import pojo.User;
-import until.BaseDao;
+import util.BaseDao;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
