@@ -51,10 +51,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.171875" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -108,7 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 8.0.51" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.51" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat 8.0.51" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.49" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
@@ -224,7 +225,7 @@
       <workItem from="1594899624393" duration="406000" />
       <workItem from="1594900073334" duration="1041000" />
       <workItem from="1594946447089" duration="3855000" />
-      <workItem from="1594984267904" duration="858000" />
+      <workItem from="1594984267904" duration="1514000" />
     </task>
     <task id="LOCAL-00001" summary="1.0 注册登录">
       <created>1594883497413</created>
@@ -259,98 +260,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.0 已完成注册登录" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="492" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594986987742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="492" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594986987742" />
+    <state x="827" y="464" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1594986732568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="464" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594986732568" />
+    <state x="818" y="298" key="FileChooserDialogImpl" timestamp="1594986938510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="298" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594986938510" />
+    <state x="518" y="132" key="SettingsEditor" timestamp="1594986941984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="518" y="132" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594986941984" />
     <state x="394" y="375" key="Vcs.Push.Dialog.v2" timestamp="1594984301347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="394" y="375" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594984301347" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>easybuy:war exploded</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>easybuy</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
